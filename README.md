@@ -33,10 +33,6 @@ This library is the ESP32 version of [Arduino-HomeKit-ESP8266](https://github.co
 * Pair Verify Step 1/2: ~0.06s
 * Pair Verify Step 2/2: ~0.03s
 
-## Setup code of the example sketch
-
-``111-11-111``
-
 ## Manual Installation 
 
 Refer to the official guide: [Manual installation](https://www.arduino.cc/en/guide/libraries#toc5)
@@ -99,4 +95,10 @@ homekit_server_config_t config = {
   .setupId = "ABCD"
 };
 ```
+
+## Setup code of the example sketch
+
+``111-11-111``
+
+
 
