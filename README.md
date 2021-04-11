@@ -45,7 +45,7 @@ Note: this library will not publish the release version for Arduino IDE.
 
 #### Manual Installation for Windows
 
-1. Click on _"Clone or Download"_ button, then click _"[Download ZIP](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP32/archive/master.zip)"_ on the page.
+1. Click on _"Clone or Download"_ button, then click _"[Download ZIP](https://github.com/Kunalverma1502/ARDUINO-HOMEKIT-ESP32/archive/refs/heads/main.zip)"_ on the page.
 1. Extract the contents of the downloaded zip file.
 1. Rename the extracted folder to _"Arduino-HomeKit-ESP32"_.
 1. Move this folder to your libraries directory. (under windows: `C:\Users\<USERNAME>\Documents\Arduino\libraries\`)
