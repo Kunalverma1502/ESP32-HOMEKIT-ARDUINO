@@ -3,7 +3,7 @@
 
 This Arduino library is a native Apple HomeKit accessory implementation for the [ESP32 Arduino core](https://github.com/espressif/arduino-esp32), and works without any additional bridges.
 
-This library is the ESP32 version of [Arduino-HomeKit-ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266), and **will no longer be maintained**, since Espressif has published the official HomeKit library for ESP32, available on Espressif's GitHub repository [esp-apple-homekit-adk](https://github.com/espressif/esp-apple-homekit-adk).
+This library is the ESP32 version of [Arduino-HomeKit-ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266)
 
 ## Notes
 
