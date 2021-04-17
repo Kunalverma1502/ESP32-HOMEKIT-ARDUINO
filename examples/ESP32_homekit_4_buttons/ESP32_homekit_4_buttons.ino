@@ -46,8 +46,9 @@ homekit_value_t cha_programmable_switch4_event_getter() {
 }
 
 
-const char *ssid = "HOME";
-const char *password = "GAMERS@5";
+const char *ssid = "your-ssid";
+const char *password = "your-password";
+
 
 void clickEvent1() {
   cha_value = HOMEKIT_PROGRAMMABLE_SWITCH_EVENT_SINGLE_PRESS;
@@ -198,6 +199,9 @@ void setup() {
     0,  /* Priority of the task */
     &Task1,  /* Task handle. */
     0); /* Core where the task should run */
+  
+  //delay(5000);               // use only when to remove pairing setup
+  //homekit_storage_reset();   // use only when to remove pairing setup
 }
 
 
